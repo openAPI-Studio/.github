@@ -16,8 +16,9 @@ A fully offline API client for VS Code, CLI, and Desktop.
 * **Git-Friendly**: Stores collections in plain JSON for easy version control.
 * **Mock & MCP**: Multi-instance mock servers and Model Context Protocol (MCP) server integration to power AI clients.
 
-[![VS Code Marketplace](https://img.shields.io/visual-studio-marketplace/v/open-post.open-post?label=VS%20Code%20Marketplace&color=blue)](https://marketplace.visualstudio.com/items?itemName=open-post.open-post)
-[![Installs](https://img.shields.io/visual-studio-marketplace/i/open-post.open-post)](https://marketplace.visualstudio.com/items?itemName=open-post.open-post)
+[![VS Code Marketplace Version](https://badgen.net/vs-marketplace/v/open-post.open-post?color=blue&label=VS%20Code%20Marketplace)](https://marketplace.visualstudio.com/items?itemName=open-post.open-post)
+[![Installs](https://badgen.net/vs-marketplace/i/open-post.open-post?color=green&label=Installs)](https://marketplace.visualstudio.com/items?itemName=open-post.open-post)
+[![Rating](https://badgen.net/vs-marketplace/rating/open-post.open-post?color=yellow&label=Rating)](https://marketplace.visualstudio.com/items?itemName=open-post.open-post)
 
 ---
 
