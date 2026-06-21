@@ -1,5 +1,7 @@
 # ⚡ Vectored
 
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Us-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/openpost)
+
 Welcome to **Vectored**! We build modern, privacy-focused, offline-first developer tools designed to integrate seamlessly into your workflow.
 
 ---
